@@ -20,9 +20,19 @@ Currently, only two language versions of the game are supported. English version
  - 
 ## Script execution setup details
 This section is devoted to the specifics of setting up the scenario (number 3 in the photo):
+### Food Farming
  - **Exact number of battles:** The exact number of battles. That is, if there is not enough energy, then an attempt will be made to buy energy.
  - **How many times do they buy energy:** How many times to buy energy. This item can be combined with the previous one.
  - **Only current energy:** Energy will not be bought. Can be combined with the first item (for example, if you want to run 40 fights, but do not  to want energy to be bought if it is not enough)
  - **Sell artifacts:** Whether to sell all the artifacts - *This action does not support background window*
  - **Up the champions to the maximum:** When the champion has reached the maximum level, whether it is necessary to make an automatic replacing with a new champion. - *This action does not support background window*
- - 
+ - **Send with Photos:** If Telegram is configured, you will receive notifications with a screenshot of the game.
+- **Stop the script if the champion(s) have reached the maximum (for example, if you want the script to work even if the Raid window is not on top of all windows):** 
+- **Up champions once for Tournaments:** Will train all the champions once and immediately replace them with new champions. This is useful if you need to quickly earn a lot of points to win the Tournaments.
+
+### Dungeons ()
+ - **Exact number of battles:** The exact number of battles. That is, if there is not enough energy, then an attempt will be made to buy energy.
+ - **How many times do they buy energy:** How many times to buy energy. This item can be combined with the previous one.
+ - **Only current energy:** Energy will not be bought. Can be combined with the first item (for example, if you want to run 40 fights, but do not  to want energy to be bought if it is not enough)
+ - **Sell artifacts:** Whether to sell all the artifacts - *This action does not support background window*
+ - **Sell all rare artifacts (Depends, Never, All):** 
