@@ -1,4 +1,7 @@
 # Welcome to Smart Raid Bot
+ > Even a small gift provides more speed implementation
+[![enter image description here](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?hosted_button_id=AN5N79WM6A5SU)
+---
 
 This bot was written to facilitate the routine work associated with the game Raid Shads of Legends.
 The program is developing and in the future, it is planned to introduce new automation (for example, automatic farming of arena, tower and so on). I can't say the exact timeframe, since the project is being developed purely on enthusiasm.
@@ -59,3 +62,9 @@ The  **token**  is a string along the lines of  `110201543:AAHdqTcvCH1vGWJxfSeof
 More details you can find here: [Telegram Bot](https://core.telegram.org/bots#6-botfather)
 After you have created a Telegram Bot and received a token, you can enter it in the Telegram Bot Token field and then click the "Get" button. ![Settings Toke](https://github.com/Pavlo-dua/RaidBotPublic/blob/master/SettingsToken.png) A window will appear waiting for the input of any message to the Telegram Bot. That is, you need to open a Telegram and go to the chat of the created Telegram Bot and write any message there. Raid Bot immediately considers the Chat number of your Telegram Bo chat (if everything went well, the waiting window will close) and then click the save button.
 
+You can send all comments/found bugs to raid.bot.p@gmail.com
+
+---
+ > Even a small gift provides more speed implementation
+[![enter image description here](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?hosted_button_id=AN5N79WM6A5SU)
+---
